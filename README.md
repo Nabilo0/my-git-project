@@ -14,5 +14,7 @@ git checkout master
 git checkout feature/user
 git push -u origin feature/user
 
+== to delete the brunch ::: git branch -D feature/user
+
 -
 git pull
