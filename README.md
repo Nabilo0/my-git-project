@@ -8,4 +8,6 @@ git commit -m "first commmand"
 git push -i origin master
 git remote -v
 -
+git checkout -b feature/user
+-
 git pull
