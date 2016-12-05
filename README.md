@@ -10,6 +10,9 @@ git remote -v
 -
 git checkout -b feature/user
 git branch
+git checkout master
+git checkout feature/user
+git push -u origin feature/user
 
 -
 git pull
