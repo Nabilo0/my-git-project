@@ -9,5 +9,7 @@ git push -i origin master
 git remote -v
 -
 git checkout -b feature/user
+git branch
+
 -
 git pull
